@@ -1,7 +1,7 @@
-# Calculator System
+# Complex Calculator
 
 ## Overview
-The Calculator System is a versatile command-line application that provides various calculation functionalities, including basic arithmetic, scientific calculations, unit conversions, shape area calculations, fraction operations, and financial calculations. It is designed to be user-friendly and educational for anyone looking to perform a range of mathematical computations.
+Complex Calculator is a versatile command-line application that provides various calculation functionalities, including basic arithmetic, scientific calculations, unit conversions, shape area calculations, fraction operations, and financial calculations. It is designed to be user-friendly and educational for anyone looking to perform a range of mathematical computations.
 
 ## Features
 - **Basic Calculator**: Perform addition, subtraction, multiplication, and division on floating-point numbers.
